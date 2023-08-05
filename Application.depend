@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584205418 source:c:\users\hp probook 450 g1\desktop\application - copie\resource.rc
+	"wx/msw/wx.rc"
+
+1618266238 c:\wxwidgets-3.1.5\include\wx\msw\wx.rc
+	<windows.h>
+	"wx/msw/rcdefs.h"
+
+1618266238 c:\wxwidgets-3.1.5\include\wx\msw\rcdefs.h
+
